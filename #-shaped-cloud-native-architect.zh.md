@@ -1,6 +1,6 @@
 [TOC]
 
-# #-Shaped Cloud-Native Architect
+# '#'-Shaped Cloud-Native Architect
 
 ## 背景
 
@@ -21,6 +21,8 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 ![img](https://miro.medium.com/max/700/1*6ZOJNn4SDSD9KYlFHr34_A.png)
 
 > 从事某一个专业领域的架构，可以是技术领域、也可以是业务领域。运用经验，用某一个领域的技术构建适用的软件、构建某一个领域适用的软件。
+
+而想要成为一名合格的架构师，除了具备过硬的技术能力外，还需要有一定的架构经验和领域知识：
 
 - Level of the Architect
 
