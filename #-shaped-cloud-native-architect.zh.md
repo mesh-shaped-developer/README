@@ -32,6 +32,8 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 
 ## 背景：什么是云原生
 
+<img src="/Users/adliao/Documents/Y3JlZGVudGlhbC1zaGFyZWQ-/documents/cloud-native-spaces/imgs/cloud-native-icon.png" style="zoom:25%;" />
+
 - 微服务
 - DevOps
 - CI
