@@ -18,7 +18,7 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 
 - Domain Architect
 
-![img](mesh-shaped-cloud-native-architect.zh.assets/1*6ZOJNn4SDSD9KYlFHr34_A.png)
+![img](mesh-shaped-cloud-native-architect.zh.assets/20211203211843.png)
 
 > 从事某一个专业领域的架构，可以是技术领域、也可以是业务领域。运用经验，用某一个领域的技术构建适用的软件、构建某一个领域适用的软件。
 
@@ -26,7 +26,7 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 
 - Level of the Architect
 
-![img](mesh-shaped-cloud-native-architect.zh.assets/1*n1Zqvw8Bk-_o8RWXnzS5KQ.png)
+![img](mesh-shaped-cloud-native-architect.zh.assets/20211203211802.png)
 
 > Domain+，Platform+，多领域知识、触类旁通
 
