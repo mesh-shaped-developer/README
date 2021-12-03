@@ -12,13 +12,13 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 
 - Software Architect： make high-level design choices based on their programming experience.
 
-![type of architect](#-shaped-cloud-native-architect.zh.assets/wiki-type-of-architect.png)
+![type of architect](./#-shaped-cloud-native-architect.zh.assets/wiki-type-of-architect.png)
 
 > 应用级、解决方案级、企业级没有高低之分，区别在于所负责的软件模块、抽象程度不同；same as 二进制、汇编、Java、Http，编写、抽象、编排，逐层构建我们想要的产品
 
 - Domain Architect
 
-![img](#-shaped-cloud-native-architect.zh.assets/1*6ZOJNn4SDSD9KYlFHr34_A.png)
+![img](./#-shaped-cloud-native-architect.zh.assets/1*6ZOJNn4SDSD9KYlFHr34_A.png)
 
 > 从事某一个专业领域的架构，可以是技术领域、也可以是业务领域。运用经验，用某一个领域的技术构建适用的软件、构建某一个领域适用的软件。
 
@@ -26,13 +26,13 @@ Ref: [Types of Software Architects](https://medium.com/@nvashanin/types-of-softw
 
 - Level of the Architect
 
-![img](#-shaped-cloud-native-architect.zh.assets/1*n1Zqvw8Bk-_o8RWXnzS5KQ.png)
+![img](./#-shaped-cloud-native-architect.zh.assets/1*n1Zqvw8Bk-_o8RWXnzS5KQ.png)
 
 > Domain+，Platform+，多领域知识、触类旁通
 
 ## 背景：什么是云原生
 
-![](/Users/adliao/Documents/Y3JlZGVudGlhbC1zaGFyZWQ-/documents/cloud-native-spaces/imgs/cloud-native-icon.png)
+![](./imgs/cloud-native-icon.png)
 
 - 微服务
 - DevOps
@@ -115,7 +115,7 @@ Architecture as a Service(AaaS)
 
 > 36公斤的力量怎么推动一公吨的车重呢？而且动辄数千转的引擎转速更不可能恰好成为轮胎转速，否则车子不就飞起来了？幸好聪明的人类发明了「齿轮」，利用不同大小的齿轮相连搭配，可以将旋转的速度降低，同时将扭矩放大。由于齿轮的圆周比就是半径比，因此从小齿轮传递动力至大齿轮时，转动的速度降低的比率以及扭矩放大的倍数，都恰好等于两齿轮的齿数比例，这个比例就是所谓的「齿轮比」。
 
-![img](#-shaped-cloud-native-architect.zh.assets/dual-clutch-transmission-13.gif)
+![img](./#-shaped-cloud-native-architect.zh.assets/dual-clutch-transmission-13.gif)
 
 
 云原生开发者就是变速箱，他能够灵活的选用档位，驱动不同级别的业务需求。
