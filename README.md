@@ -1,11 +1,5 @@
 # Cloud-Native
 
-- 记录想法
-- 积累经验
-- 拓展边界
+migrate to logseq publish, markdown + network graph, perfect!
 
-## Backlogs
-
-- [ ] #-shaped cloud-native architect
-  - initial version done
-
+Just go to https://mesh-shaped-developer.github.io/README/

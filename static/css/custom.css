@@ -1,0 +1,23 @@
+/* This must be the first line of the custom.css with other import rules */
+
+/* default font */
+:root {
+  --ct-text-size: 16px;
+  --ct-line-height: 1.6;
+  --ls-font-family: "Only Emoji", "JetBrains Mono";
+  --ct-page-title-font-family: var(--ls-font-family);
+  --ct-code-font-family: "JetBrains Mono";
+}
+
+
+/* increase the font size of the code */
+.CodeMirror pre.CodeMirror-line,
+.CodeMirror-gutter,
+.CodeMirror-gutters,
+.CodeMirror-linenumber,
+.CodeMirror-scroll,
+.CodeMirror-sizer,
+.CodeMirror {
+  font-size: 14px;
+  line-height: 18px;
+}
