@@ -1,6 +1,13 @@
 /* This must be the first line of the custom.css with other import rules */
 
-/* default font */
+/* 
+
+	Anddd7's diy _
+	checkout [https://logseq.com], create some sample blocks and check the classnames in browser
+	copy and overwrite it here. (use !important if needed.)
+*/
+
+/* default font for literal */
 :root {
   --ct-text-size: 16px;
   --ct-line-height: 1.6;
@@ -19,4 +26,24 @@
 .CodeMirror {
   font-size: 14px;
   line-height: 18px;
+}
+
+/* expand markdown table for wide screen */
+.table-wrapper {
+  white-space: nowrap;
+  max-width: 1400px !important;
+}
+
+/* hide useless things in customer query */
+.custom-query .initial .align-items {
+  display: none;
+}
+.custom-query .initial .content .block-content .timestamp,
+.custom-query .initial .content .block-content .block-body {
+  display: none;
+}
+
+/* styles changes */
+.priority {
+  margin-right: 8px !important;
 }
