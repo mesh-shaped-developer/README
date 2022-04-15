@@ -2,4 +2,4 @@
 
 migrate to logseq publish, markdown + network graph, perfect!
 
-Just go to https://mesh-shaped-developer.github.io/README/
+Just go to https://insights.mesh-shaped.top
