@@ -38,6 +38,7 @@
 .custom-query .initial .align-items {
   display: none;
 }
+
 .custom-query .initial .content .block-content .timestamp,
 .custom-query .initial .content .block-content .block-body {
   display: none;
